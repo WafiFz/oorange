@@ -5,7 +5,7 @@
         <a class="navbar-brand font-weight-bolder ms-sm-3"
             href="https://demos.creative-tim.com/soft-ui-design-system/index.html" rel="tooltip"
             title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
-            Soft UI Design System
+            HMPSTS
         </a>
         <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse"
             data-bs-target="#navigation" aria-controls="navigation" aria-expanded="true" aria-label="Toggle navigation">
@@ -929,14 +929,14 @@
                             Github</p>
                     </a>
                 </li>
-                <li class="nav-item my-auto ms-3 ms-lg-0">
+                {{-- <li class="nav-item my-auto ms-3 ms-lg-0">
                     <a href="https://www.creative-tim.com/builder?ref=navbar-soft-design-system"
-                        class="btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0">Online Builder</a>
-                </li>
+                        class="btn btn-sm btn-outline-warning btn-round mb-0 me-1 mt-2 mt-md-0">Online Builder</a>
+                </li> --}}
                 <li class="nav-item my-auto ms-3 ms-lg-0">
 
                     <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro"
-                        class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Upgrade to Pro</a>
+                        class="btn btn-sm  bg-gradient-dark  btn-round mb-0 me-1 mt-2 mt-md-0">Join Us</a>
 
                 </li>
             </ul>

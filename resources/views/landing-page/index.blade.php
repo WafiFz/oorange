@@ -12,8 +12,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 text-center mx-auto">
-                        <h1 class="text-white pt-3 mt-n5">Oorange Unpad</h1>
-                        <p class="lead text-white mt-3">Free &amp; Open Source Web UI Kit built over Bootstrap 5. <br> Join over 1.4 million developers around the world. </p>
+                        <h1 class="text-white pt-3 mt-n5">HMPSTS</h1>
+                        <p class="lead text-white mt-3">We Prepare Startups for Accelerator. <br> Join over 1.4 million startups around the world. </p>
                     </div>
                 </div>
             </div>
@@ -43,15 +43,15 @@
                 <div class="row">
                 <div class="col-md-4 position-relative">
                     <div class="p-3 text-center">
-                    <h1 class="text-gradient text-primary"><span id="state1" countto="70">70</span>+</h1>
-                    <h5 class="mt-3">Coded Elements</h5>
+                    <h1 class="text-gradient text-warning"><span id="state1" countto="70">70</span>+</h1>
+                    <h5 class="mt-3">Lorem Ipsum</h5>
                     <p class="text-sm">From buttons, to inputs, navbars, alerts or cards, you are covered</p>
                     </div>
                     <hr class="vertical dark">
                 </div>
                 <div class="col-md-4 position-relative">
                     <div class="p-3 text-center">
-                    <h1 class="text-gradient text-primary"> <span id="state2" countto="15">15</span>+</h1>
+                    <h1 class="text-gradient text-warning"> <span id="state2" countto="15">15</span>+</h1>
                     <h5 class="mt-3">Design Blocks</h5>
                     <p class="text-sm">Mix the sections, change the colors and unleash your creativity</p>
                     </div>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="p-3 text-center">
-                    <h1 class="text-gradient text-primary" id="state3" countto="4">4</h1>
+                    <h1 class="text-gradient text-warning" id="state3" countto="4">4</h1>
                     <h5 class="mt-3">Pages</h5>
                     <p class="text-sm">Save 3-4 weeks of work when you use our pre-made pages for your website</p>
                     </div>
@@ -78,7 +78,7 @@
                 <div class="col-md-6">
                     <div class="info">
                     <div class="icon icon-sm">
-                        <svg class="text-primary" width="25px" height="25px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg class="text-warning" width="25px" height="25px" viewBox="0 0 40 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>document</title>
                         <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                             <g transform="translate(-1870.000000, -591.000000)" fill="#FFFFFF" fill-rule="nonzero">
@@ -100,7 +100,7 @@
                 <div class="col-md-6">
                     <div class="info">
                     <div class="icon icon-sm">
-                        <svg class="text-primary" width="25px" height="25px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg class="text-warning" width="25px" height="25px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>shop </title>
                         <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                             <g transform="translate(-1716.000000, -439.000000)" fill="#FFFFFF" fill-rule="nonzero">
@@ -125,7 +125,7 @@
                 <div class="col-md-6 mt-3">
                     <div class="info">
                     <div class="icon icon-sm">
-                        <svg class="text-primary" width="25px" height="25px" viewBox="0 0 42 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg class="text-warning" width="25px" height="25px" viewBox="0 0 42 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>time-alarm</title>
                             <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                                 <g transform="translate(-2319.000000, -440.000000)" fill="#923DFA" fill-rule="nonzero">
@@ -149,7 +149,7 @@
                 <div class="col-md-6 mt-3">
                     <div class="info">
                     <div class="icon icon-sm">
-                        <svg class="text-primary" width="25px" height="25px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <svg class="text-warning" width="25px" height="25px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>office</title>
                         <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
                         <g transform="translate(-1869.000000, -293.000000)" fill="#FFFFFF" fill-rule="nonzero">
@@ -172,7 +172,7 @@
                 </div>
             </div>
             <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
-                <div class="card card-background card-background-mask-primary tilt" data-tilt="">
+                <div class="card card-background card-background-mask-warning tilt" data-tilt="">
                     <div class="full-background" style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/team-working.jpg')"></div>
                     <div class="card-body pt-7 text-center">
                     <div class="icon icon-lg up mb-3 mt-3">
@@ -191,7 +191,7 @@
                         </g>
                         </svg>
                     </div>
-                    <h2 class="text-white up mb-0">Feel the <br> Soft UI Design System</h2>
+                    <h2 class="text-white up mb-0">Feel the <br> Design System</h2>
                     <a href=".//sections/elements/buttons.html" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Start with Elements</a>
                     </div>
                 </div>
